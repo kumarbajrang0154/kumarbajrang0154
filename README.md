@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bajrang Kumar Chaurasiya
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Frontend.
 - 📫 How to reach me ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am very lazy.
